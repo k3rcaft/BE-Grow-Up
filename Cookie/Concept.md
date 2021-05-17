@@ -6,6 +6,11 @@ a small text file that is stored on the user's computer
 
 ### Properties
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 +------------+---------------------------------------------------------+
 | Property | Cookie |
 +------------+---------------------------------------------------------+
